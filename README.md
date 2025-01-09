@@ -23,6 +23,11 @@ This repository contains two Python scripts that simulate ransomware behaviour: 
 4. `.exe` files: Executable versions of the scripts for Windows environments.
 5. **Images**: Screenshots and demonstration images showcasing steganography, disguised scripts, and logo changes.
 
+## Operating Systems Used
+
+1. Windows 10 (32 bit) VM
+2. Linux Mint (Ubuntu 64 bit) VM
+
 ## How It Works
 
 ### Encryption (`script.py`)
